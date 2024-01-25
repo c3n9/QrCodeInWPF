@@ -1,0 +1,1 @@
+# Nuget: MessagingToolkit.QRCode
